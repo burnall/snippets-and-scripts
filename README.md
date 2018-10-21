@@ -1,1 +1,1 @@
-# snippets-and-scripts
+DOM tree watcher - monitor changes of multiple DOM elements
