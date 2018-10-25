@@ -1,6 +1,7 @@
 const targetNode = document.getElementById('Example');
 
 const config = { 
+	characterData: true,
 	attributes: true, 
 	childList: true, 
 	subtree: true
